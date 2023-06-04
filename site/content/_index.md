@@ -1,7 +1,7 @@
 ---
 title: Sri Kannada Mata
-subtitle: Kannada Mata
-image: img/logokm.png
+subtitle: " "
+image: img/cc_20230521_154354-.png
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
